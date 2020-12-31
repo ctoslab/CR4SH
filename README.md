@@ -21,7 +21,7 @@ Video Proof: https://youtu.be/RLDE1W_sOwg
 <img src="/Screenshots/Demo.gif" width=700 align="center">
 
 ### 🛡️ Scan Results:
-<img src="/Screenshots/ScanResults.png.gif" width=700 align="center">
+<img src="/Screenshots/ScanResults.png" width=700 align="center">
 Link: https://bit.ly/3hwoCh5
 
 To learn more please watch this video: https://youtu.be/zEUFTFkMiMk
