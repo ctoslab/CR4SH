@@ -4,7 +4,7 @@ This will automatically crash the user session of any windows machine it's very 
 ### ❗ What is this ?
 CR4SH is a fud executable file that allows you to crash any windows session. It works on all windows versions.
 
-Video Proof: https://youtu.be/RLDE1W_sOwg
+Video Proof (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/RLDE1W_sOwg
 
 ### ⚙️ FEATURES
 
@@ -24,7 +24,7 @@ Video Proof: https://youtu.be/RLDE1W_sOwg
 <img src="/Screenshots/ScanResults.png" width=700 align="center">
 Link: https://bit.ly/3hwoCh5
 
-To learn more please watch this video: https://youtu.be/zEUFTFkMiMk
+To learn more please watch this video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/zEUFTFkMiMk
 
 ### 📡 HOW TO UPDATE
 
